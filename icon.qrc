@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/weater/3级雾霾.png</file>
+        <file>icon/weater/八级风.png</file>
+        <file>icon/weater/暴雨.png</file>
+        <file>icon/weater/冰雹.png</file>
+        <file>icon/weater/大雪.png</file>
+        <file>icon/weater/大雨.png</file>
+        <file>icon/weater/多云.png</file>
+        <file>icon/weater/风.png</file>
+        <file>icon/weater/雷电.png</file>
+        <file>icon/weater/雷阵雨.png</file>
+        <file>icon/weater/烈日.png</file>
+        <file>icon/weater/六级风.png</file>
+        <file>icon/weater/霾.png</file>
+        <file>icon/weater/七级风.png</file>
+        <file>icon/weater/沙尘暴.png</file>
+        <file>icon/weater/湿度.png</file>
+        <file>icon/weater/十二级及以上台风.png</file>
+        <file>icon/weater/十级风.png</file>
+        <file>icon/weater/霜冻.png</file>
+        <file>icon/weater/四级风.png</file>
+        <file>icon/weater/特大暴雨.png</file>
+        <file>icon/weater/五级风.png</file>
+        <file>icon/weater/小雪.png</file>
+        <file>icon/weater/小雨.png</file>
+        <file>icon/weater/雨夹雪.png</file>
+        <file>icon/weater/雨天.png</file>
+        <file>icon/weater/云.png</file>
+        <file>icon/weater/阵雨.png</file>
+        <file>icon/weater/中雪.png</file>
+        <file>icon/weater/pm2.5.png</file>
+        <file>icon/weater/空气清新.png</file>
+        <file>icon/weater/太阳.png</file>
+        <file>icon/彩色icon/晴.png</file>
+        <file>icon/彩色icon/阴.png</file>
+        <file>icon/彩色icon/雨.png</file>
+        <file>icon/彩色icon/多云.png</file>
+    </qresource>
+    <qresource prefix="/other">
+        <file>icon/搜索.png</file>
+    </qresource>
+</RCC>
