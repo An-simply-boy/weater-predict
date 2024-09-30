@@ -3,6 +3,7 @@
 
 int main(int argc, char *argv[])
 {
+    // xiugai
     QApplication a(argc, argv);
     Widget w;
     w.show();
